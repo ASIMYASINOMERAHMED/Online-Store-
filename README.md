@@ -29,6 +29,7 @@ Watch the project overview video: [Project Overview](https://youtu.be/nmmNznTLR1
 * Ensure that the SQL Server instance & SQL Server Agent is running.
 * Open the Windows Forms project in Visual Studio.
 * Update the connection string in the project to point to your SQL Server database.
+* Download Images from [Project Images](https://www.flickr.com/photos/201194018@N06/)
 * Ensure Images Paths is the same in the database
 * Build the project to compile the code.
 * Run the application to launch it.
